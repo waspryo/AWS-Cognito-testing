@@ -8,7 +8,7 @@
     "@fortawesome/react-fontawesome": "^0.1.4",
     "aws-amplify": "^3.0.1",
     "axios": "^0.21.3",
-    "bulma": "^0.7.2",
+    "bulma": "^0.9.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.3.1",
